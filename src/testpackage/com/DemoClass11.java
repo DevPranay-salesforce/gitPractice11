@@ -44,3 +44,4 @@ public static void main(String[] args)
  sc.close();
 }
 }
+///////or or change   ..../////
